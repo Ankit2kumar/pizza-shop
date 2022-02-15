@@ -11,7 +11,7 @@ function Footer() {
 			<div className="socialMedia">
 				<InstagramIcon /> <TwitterIcon /> <FacebookIcon /> <LinkedInIcon />
 			</div>
-			<p> &copy; 2021 ankitpizza.com</p>
+			<p> &copy; 2022 ankitpizza.com</p>
 		</div>
 	);
 }
